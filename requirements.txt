@@ -1,0 +1,7 @@
+torch>=2.1
+numpy
+opencv-python
+ultralytics>=8.2.0
+easyocr>=1.7.1
+pandas
+PyYAML
